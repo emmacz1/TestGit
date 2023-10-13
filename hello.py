@@ -1,2 +1,2 @@
 print("hello world!")
-print("california is good city")
+print("california is a good city")
